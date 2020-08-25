@@ -1,0 +1,14 @@
+.hidden-ads div {
+	display: none !important;
+}
+.post .storycontent .entry .g .g-single {
+	margin-bottom: 11px;
+}
+span.ad-text-3 {
+	display: block;
+    text-align: right;
+    margin-top: -10px;
+    font-size: 10px;
+    margin-bottom: 5px;
+    color: #777;
+}
